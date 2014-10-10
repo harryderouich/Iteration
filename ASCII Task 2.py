@@ -1,7 +1,7 @@
 #Harry Derouich
 #10/10/14
 #ASCII and Unicode Task 2
-
+#
 from random import randint
 
 pass_length = int(input("Please enter the pass length"))
