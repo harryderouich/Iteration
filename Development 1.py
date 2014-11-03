@@ -8,6 +8,3 @@ import math
 
 number = int(input("Please enter a number: "))
 
-factorial_value = math.factorial(number)
-print("The factorial value of {0} is {1}".format(number, factorial_value))
-
